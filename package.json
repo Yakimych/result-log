@@ -29,7 +29,7 @@
     "bs-react-netlify-identity": "^2.0.3",
     "date-fns": "^2.8.1",
     "graphql": "^15.3.0",
-    "react": "0.0.0-experimental-d28bd2994",
+    "react": "0.14.0",
     "react-dom": "0.0.0-experimental-d28bd2994",
     "react-minimal-pie-chart": "^5.0.0",
     "react-relay": "0.0.0-experimental-8058ef82",
@@ -55,7 +55,7 @@
     "webpack-dev-server": "^3.1.8"
   },
   "resolutions": {
-    "react": "0.0.0-experimental-d28bd2994",
+    "react": "0.14.0",
     "react-dom": "0.0.0-experimental-d28bd2994"
   }
 }
