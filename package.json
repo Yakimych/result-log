@@ -36,7 +36,7 @@
     "reason-promise": "^1.1.1",
     "reason-react": "^0.9.1",
     "reason-relay": "^0.11.0",
-    "recharts": "^1.7.1",
+    "recharts": "^2.1.14",
     "relay-compiler": "^10.1.0",
     "relay-config": "10.0.1",
     "relay-runtime": "^10.1.0",
